@@ -1,5 +1,5 @@
 
-Hello 👋, my name is Kevin. I am a high school 🏫 student 👨‍🎓.  
+Hello 👋, my name is Kevin. I am a university 🏫 student 👨‍🎓.  
 My contact email 📧 is *zyxkad@gmail.com*
 
 ## Programming languages
